@@ -1,3 +1,4 @@
 # Clustering
-gene-sample clustering
+gene-sample clustering:
+
 try different clustering methods to cluster samples
